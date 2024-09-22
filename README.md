@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust,Web3 development,and deep learning algorithms.Always diving into new frameworks!. 
 - 💞️ I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together!.
 - 📫 Reach me omkarmohite85@gmail.com 
-- 😄 Pronouns: Omkar
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: When i'm not coding,I'm either binge-watching sci-fi shows or riding bike!.
 
 <!---
