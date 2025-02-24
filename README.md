@@ -15,7 +15,7 @@
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=snehalrenushe&label=Profile%20views&color=0e75b6&style=flat" alt="snehalrenushe" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=OMKAR9395&label=Profile%20views&color=0e75b6&style=flat" alt="OMKAR9395" /></p>
 <h3 align="center">A Boy Trying to Connect the Dots!</h3>
 
 
