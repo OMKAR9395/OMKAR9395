@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/omkar-mohite-0860362a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://omkar9395.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A66C" alt="Portfolio Badge"/>
+  <a href="https://omkar9395.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="PORTFOLIO Badge"/>
+</a>
 
-  </a>
 <!--   <a href="https://www.instagram.com/omkar__patil__07/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> -->
